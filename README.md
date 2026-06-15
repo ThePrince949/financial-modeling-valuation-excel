@@ -25,4 +25,4 @@ This model includes financial statement analysis, forecasting assumptions, valua
 
 ## Purpose
 
-These models were created as personal finance and valuation practice projects to strengthen Excel, financial analysis, and modeling skills. They are included as part of my portfolio for entry-level analyst roles in finance, banking, pensions, risk, and business analytics.
+These models were created as personal finance and valuation practice projects to strengthen Excel, financial analysis, and modeling skills.
